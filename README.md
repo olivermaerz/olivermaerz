@@ -1,4 +1,9 @@
-Hi, I’m @olivermaerz. Reach me at: [LinkedIn](https://www.linkedin.com/in/olivermaerz/).
+Hi, I’m @olivermaerz.
+
+💻 React · React Native · Python · PHP · Deep Learning & LLM integrations.
+🔎 Open to new opportunities in software engineering and AI.
+💬 Best way to contact me: [LinkedIn](https://www.linkedin.com/in/olivermaerz/).
+
 
 <!---
 
